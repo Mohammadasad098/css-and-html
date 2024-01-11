@@ -21,6 +21,7 @@ p{
     
     padding: 10px;
     border-color: black white black white;
+    border-top: 5px solid black;
 }
 img{
     width: 200px;
@@ -44,7 +45,8 @@ div{
     
 }
 .div-two{
-    border: 1px solid black;
+    
+    
     margin-bottom: px;
     padding: 80px;
     
